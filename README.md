@@ -1,76 +1,97 @@
-<div align="center">
+<h1 align="center">👩‍💻 Olá, eu sou a Laurielli Soares</h1>
 
-<h1 style="color:#132a13;">Laurielli Soares dos Santos</h1>
+<h3 align="center">
+Estudante de Engenharia de Software • Foco em base sólida, código limpo e crescimento contínuo
+</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=laurisoftcode&title_color=132a13&icon_color=4f772d&text_color=31572c&bg_color=ffffff00&hide_border=true" />
-
-<h3 style="color:#31572c;">Software Engineering</h3>
-
-<p style="color:#4f772d;">
-Code • Systems • Logic
+<p align="center">
+🌿 Construindo soluções com lógica, organização e propósito
 </p>
 
-</div>
-
----
-
-<h2 style="color:#132a13;">🧠 About me</h2>
-
-<p style="color:#132a13;">
-I am a Software Engineering student focused on building a strong foundation in software development,
-system logic, and problem solving.
-</p>
-
-<p style="color:#132a13;">
-I value clean code, continuous learning, and well-structured solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LauriSoftDev&label=Profile%20views&color=31572c&style=flat" alt="laurisoftdev" />
 </p>
 
 ---
 
-<h2 style="color:#132a13;">
-⚙️ Tech stack <span style="color:#4f772d;">(in progress)</span>
-</h2>
+## 🌱 Sobre mim
 
-<ul>
-  <li style="color:#31572c;">Programming Logic</li>
-  <li style="color:#31572c;">Git & GitHub</li>
-  <li style="color:#31572c;">Software Engineering fundamentals</li>
-</ul>
+- 🎓 **Engenharia de Software — UNIGRAN**
+- 🧠 Foco em **lógica de sistemas**, **boas práticas** e **aprendizado contínuo**
+- 🛠️ Desenvolvendo projetos para evoluir técnica e profissionalmente
+- ✨ Valorizo soluções simples, bem estruturadas e código limpo
 
 ---
 
-<h2 style="color:#132a13;">📌 Current focus</h2>
+## 📫 Contato
 
-<ul>
-  <li style="color:#132a13;">Strengthening programming fundamentals</li>
-  <li style="color:#132a13;">Building small and consistent projects</li>
-  <li style="color:#132a13;">Developing logical thinking for systems</li>
-</ul>
+- 📧 **Email:** `lauri18Dev@gmail.com`
+- 📸 **Instagram:** [@laurisoftdev](https://instagram.com/laurisoftdev)
 
----
-
-<h2 style="color:#132a13;">🗂️ Projects</h2>
-
-<p style="color:#4f772d;">
-Coming soon — learning in progress 🌱
+<p align="left">
+  <a href="https://instagram.com/laurisoftdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
 </p>
 
 ---
 
-<h2 style="color:#132a13;">🔗 Find me</h2>
+## ⚙️ Tecnologias & Ferramentas
 
-<p>
-<a href="https://instagram.com/laurisoftcode" style="color:#31572c; text-decoration:none;">
-Instagram @laurisoftcode
-</a>
+### 💻 Linguagens & Desenvolvimento
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</p>
+
+### 🌐 Front-end & Mobile
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
+</p>
+
+### 🗄️ Banco de Dados & Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
+</p>
+
+### 🧰 Ferramentas & Outros
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<p style="color:#90a955;">
-<strong>laurisoftcode</strong> — software engineering at the core
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauriSoftDev&show_icons=true&title_color=132a13&icon_color=4f772d&text_color=31572c&bg_color=ffffff00&hide_border=true" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauriSoftDev&layout=compact&title_color=132a13&text_color=31572c&bg_color=ffffff00&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauriSoftDev&theme=default&hide_border=true" />
+</p>
+
+---
+
+🌿 *“Construindo hoje a base do software que quero escrever amanhã.”*
