@@ -1,97 +1,82 @@
-<h1 align="center">👩‍💻 Olá, eu sou a Laurielli Soares</h1>
+<br clear="both">
 
-<h3 align="center">
-Estudante de Engenharia de Software • Foco em base sólida, código limpo e crescimento contínuo
-</h3>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=128&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-<p align="center">
-🌿 Construindo soluções com lógica, organização e propósito
-</p>
+###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LauriSoftDev&label=Profile%20views&color=31572c&style=flat" alt="laurisoftdev" />
-</p>
+<h1 align="center">Hey 👋What's Up?</h1>
 
----
+###
 
-## 🌱 Sobre mim
+<br clear="both">
 
-- 🎓 **Engenharia de Software — UNIGRAN**
-- 🧠 Foco em **lógica de sistemas**, **boas práticas** e **aprendizado contínuo**
-- 🛠️ Desenvolvendo projetos para evoluir técnica e profissionalmente
-- ✨ Valorizo soluções simples, bem estruturadas e código limpo
+<p align="left">Hello World!!</p>
 
----
+###
 
-## 📫 Contato
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-- 📧 **Email:** `lauri18Dev@gmail.com`
-- 📸 **Instagram:** [@laurisoftdev](https://instagram.com/laurisoftdev)
+###
 
-<p align="left">
-  <a href="https://instagram.com/laurisoftdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+</div>
 
----
+###
 
-## ⚙️ Tecnologias & Ferramentas
+<img src="https://raw.githubusercontent.com/LauriSoftDev/LauriSoftDev/output/snake.svg" alt="Snake animation" />
 
-### 💻 Linguagens & Desenvolvimento
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</p>
+###
 
-### 🌐 Front-end & Mobile
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40"/>
-</p>
+<br clear="both">
 
-### 🗄️ Banco de Dados & Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauriSoftDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LauriSoftDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LauriSoftDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauriSoftDev&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-### 🧰 Ferramentas & Outros
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LauriSoftDev.LauriSoftDev&"  />
+</div>
 
-## 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauriSoftDev&show_icons=true&title_color=132a13&icon_color=4f772d&text_color=31572c&bg_color=ffffff00&hide_border=true" />
-</p>
+<p align="left">Hello World!!</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauriSoftDev&layout=compact&title_color=132a13&text_color=31572c&bg_color=ffffff00&hide_border=true" />
-</p>
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LauriSoftDev&hide_border=true" />
-</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
----
-
-🌿 *“Construindo hoje a base do software que quero escrever amanhã.”*
+###
