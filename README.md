@@ -2,6 +2,8 @@
 
 <h1 style="color:#132a13;">Laurielli Soares dos Santos</h1>
 
+<img src="https://github-readme-stats.vercel.app/api?username=laurisoftcode&title_color=132a13&icon_color=4f772d&text_color=31572c&bg_color=ffffff00&hide_border=true" />
+
 <h3 style="color:#31572c;">Software Engineering</h3>
 
 <p style="color:#4f772d;">
