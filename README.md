@@ -29,11 +29,12 @@ I value clean code, continuous learning, and well-structured solutions.
 <p><strong>Programming Logic</strong></p>
 <progress value="65" max="100" style="width:100%;"></progress>
 
+<p><strong>Software Engineering Fundamentals</strong></p>
+<progress value="45" max="100" style="width:100%;"></progress>
+
 <p><strong>Git & GitHub</strong></p>
 <progress value="55" max="100" style="width:100%;"></progress>
 
-<p><strong>Software Engineering Fundamentals</strong></p>
-<progress value="45" max="100" style="width:100%;"></progress>
 
 ---
 
