@@ -58,9 +58,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&pause=10000&color=CBD5E1&width=435&height=55&lines=%E2%86%92+Top+Contributed+Repo%3A)](https://git.io/typing-svg)
 <br>
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=LaurielliSoft&limit=5&theme=merko&combine_all_yearly_contributions=true&center=true)
+  <a href="https://github.com/LaurielliSoft?tab=repositories">
+    
+   ![](https://github-contributor-stats.vercel.app/api?username=LaurielliSoft&limit=5&theme=merko&combine_all_yearly_contributions=true&center=true)
 
+  </a>
 </div>
 
 ---
