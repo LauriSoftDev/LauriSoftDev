@@ -17,7 +17,7 @@
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&letterSpacing=1&pause=1000&color=ECF39E&center=true&vCenter=true&width=1000&lines=I+am+a+Software+Engineering+student;I+focus+on+building+software;I+value+clean+code+and+continuous+learning;I+develop+projects+to+grow+in+technology)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=35&letterSpacing=1&pause=1000&color=4F772D&center=true&vCenter=true&width=1000&height=32&lines=Sou+estudante+de+Engenharia+de+Software;Meu+foco+%C3%A9+o+desenvolvimento+de+software;Valorizo+%E2%80%8B%E2%80%8Bc%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo;Desenvolvo+projetos+para+crescer+na+%C3%A1rea+de+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&letterSpacing=1&pause=1000&color=4F772D&center=true&vCenter=true&width=1000&height=30&lines=Sou+estudante+de+Engenharia+de+Software;Meu+foco+%C3%A9+o+desenvolvimento+de+software;Valorizo+%E2%80%8B%E2%80%8Bc%C3%B3digo+limpo+e+aprendizado+cont%C3%ADnuo;Desenvolvo+projetos+para+crescer+na+%C3%A1rea+de+tecnologia)](https://git.io/typing-svg)
 
 <br>
 
